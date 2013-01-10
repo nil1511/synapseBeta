@@ -1,0 +1,70 @@
+@charset "utf-8";
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 102%;
+	font-family: inherit;
+	vertical-align: baseline;
+font-family: 'Rancho', cursive;
+}
+#conimg{
+	display: inline;
+width: 130px;
+height:130px;
+float: left;
+/*padding:10px 0 0 20px;*/
+}
+#ctab{
+margin-left: auto;
+margin-right: auto;
+
+	}
+#tes{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+font-size: 1.5em;
+background-color: #639D11;
+color: #DEF7BD;	
+width: 95%;
+margin-bottom: 5px;
+padding-left: 10px;
+border-radius:0 0 10px 10px;
+	}
+	#te{		
+	margin-left: auto;
+	margin-right: auto;
+font-size: 1.5em;
+padding-left: 5%;
+background-color: #639D11;
+color: #DEF7BD;	
+width: 95%;
+border-radius:10px;
+margin-bottom: 5px;
+		}
+#ctype{
+	display: none;
+position: relative;
+z-index: 1;
+top: -132px;
+text-shadow: 1px 1px 1px #FFF;
+font-size: 0.85em;
+}
+	#cdd{position:relative;
+	font-size: 1em;	
+	float: right;	
+	width: 200px;
+	padding-left: 10px;
+	padding-top: 30px;
+	}
